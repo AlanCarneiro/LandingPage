@@ -1,2 +1,2 @@
 # LoadingPage
- LoadingPage em html e css
+ LandingPage em html e css
